@@ -1,12 +1,14 @@
-{
-  "author" : "Toinane", 
-  "name" : "Dark Tactic Mode", 
-  "keyWords" : "dark,tactic",
-  "version" : "1.0.0",
-  "dofusVersion" : "2.50", 
-  "description" : "Just a dark color scheme", 
-  "url" : "https://github.com/Toinane/darkTactic/blob/master/darkTactic.zip?raw=true",
-  "previewUrl" : "https://github.com/Toinane/darkTactic/blob/master/preview.png", 
-  "creationDate" : "31/01/2019", 
-  "modificationDate" : "31/01/2019"
-}
+[
+  {
+    "author" : "Toinane", 
+    "name" : "Dark Tactic Mode", 
+    "keyWords" : "dark,tactic",
+    "version" : "1.0.0",
+    "dofusVersion" : "2.50", 
+    "description" : "Just a dark color scheme", 
+    "url" : "https://github.com/Toinane/darkTactic/blob/master/darkTactic.zip?raw=true",
+    "previewUrl" : "https://github.com/Toinane/darkTactic/blob/master/preview.png", 
+    "creationDate" : "31/01/2019", 
+    "modificationDate" : "31/01/2019"
+  }
+]
