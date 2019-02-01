@@ -2,12 +2,12 @@
     {
         "author" : "Toinane", 
         "name" : "Dark Tactic Mode", 
-        "version" : "1.0.0",
+        "version" : "1.0.1",
         "dofusVersion" : "2.49", 
         "description" : "Just a dark color scheme", 
         "url" : "https://github.com/Toinane/darkTactic/blob/master/darkTactic.zip?raw=true",
-        "previewUrl" : "https://github.com/Toinane/darkTactic/blob/master/preview.png", 
+        "previewUrl" : "https://github.com/Toinane/darkTactic/blob/master/preview.jpg?raw=true", 
         "creationDate" : "31/01/2019", 
-        "modificationDate" : "31/01/2019"
+        "modificationDate" : "01/02/2019"
   }
 ]
